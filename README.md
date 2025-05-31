@@ -12,14 +12,14 @@ The dataset is organized by river name, with each folder containing:
 - `image/` — raw drone images
 - `label/` — object detection annotations (e.g., bounding boxes)
 - `mask/` — segmentation masks for waste regions
-'''
-river/ 
+```
+river/
 ├── bagmati/
-│ ├── image/
-│ ├── label/
-│ └── mask/
+│   ├── image/
+│   ├── label/
+│   └── mask/
 ├── bishnumati/
-│ ├── image/
-│ ├── label/
-│ └── mask/
-'''
+│   ├── image/
+│   ├── label/
+│   └── mask/
+```
