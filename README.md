@@ -13,3 +13,12 @@ The dataset is organized by river name, with each folder containing:
 - `label/` — object detection annotations (e.g., bounding boxes)
 - `mask/` — segmentation masks for waste regions
 
+river/
+├── bagmati/
+│ ├── image/
+│ ├── label/
+│ └── mask/
+├── bishnumati/
+│ ├── image/
+│ ├── label/
+│ └── mask/
