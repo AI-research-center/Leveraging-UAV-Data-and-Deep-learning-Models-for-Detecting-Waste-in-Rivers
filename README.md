@@ -23,3 +23,18 @@ river/
 │   ├── label/
 │   └── mask/
 ```
+## 🏷️ Citation
+If you find this useful in your research, please consider cite:
+```
+@ARTICLE{11021562,
+  author={Man Pati, Bipun and Khadka, Bishnu and Thapa, Ukesh and Kumar Pal, Sujay and Sakya, Subarna and Shrestha, Anup and Joshi, Hemant and Pyakurel, Dhiraj and Chandra Roy, Prem},
+  journal={IEEE Access}, 
+  title={Leveraging UAV Data and Deep Learning Models for Detecting Waste in Rivers}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={99603-99627},
+  keywords={Rivers;Object detection;Training;Transfer learning;Data models;Autonomous aerial vehicles;Accuracy;Measurement;Deep learning;Transformers;Deep learning;object detection;Nepali river;segmentation;comparison;transfer learning;uncrewed aerial vehicle (UAV);environmental monitoring;floating plastic;solid waste},
+  doi={10.1109/ACCESS.2025.3576295}}
+
+```
