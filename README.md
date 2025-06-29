@@ -17,11 +17,10 @@ The dataset is available upon request. To gain access, please review and sign th
 
 By submitting your request, you agree to the Terms outlined in the PDF document.
 
-
 ### 📁 Dataset Structure
 
 The dataset is organized by river name, with each folder containing:
-- `image/` — raw drone images
+- `image/` — raw drone images splitted into 256x256 patches
 - `label/` — object detection annotations (e.g., bounding boxes)
 - `mask/` — segmentation masks for waste regions
 ```
