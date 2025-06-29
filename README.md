@@ -2,6 +2,8 @@
 ## River Waste Dataset – Bagmati & Bishnumati
 
 This project focuses on environmental monitoring of two major rivers in Kathmandu, Nepal — **Bagmati** and **Bishnumati**. Using drone-captured aerial imagery, we have constructed a dataset aimed at detecting and segmenting river waste.
+- 📄 Access the paper here::
+  - 🔗 **[IEEE Access - Document 11021562](https://ieeexplore.ieee.org/document/11021562)**  
 
 ## Dataset Access
 The dataset is available upon request. To gain access, please review and sign the [Terms of Usage](./TERMS_OF_USAGE.pdf) and email it to the corresponding author.
@@ -14,6 +16,7 @@ The dataset is available upon request. To gain access, please review and sign th
 4. Once reviewed, access will be provided to the email address used for your request.
 
 By submitting your request, you agree to the Terms outlined in the PDF document.
+
 
 ### 📁 Dataset Structure
 
