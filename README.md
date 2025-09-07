@@ -11,7 +11,7 @@ The dataset is available upon request. To gain access, please review and sign th
 ### How to Request Access:
 1. Download and review the [Terms of Usage](./TERMS_OF_USAGE.pdf).
 2. Sign the Terms of Usage.
-3. Email the signed form to the corresponding author.
+3. Please email the signed form to the corresponding author or send it directly to our organization at [airesearch@acem.edu.np](mailto:airesearch@acem.edu.np).
    - We encourage using your **official organization email** (e.g., university or research institute email) for verification purposes.
 4. Once reviewed, access will be provided to the email address used for your request.
 
